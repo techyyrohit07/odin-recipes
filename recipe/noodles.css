@@ -1,0 +1,21 @@
+.heading{
+    color: red;font-size: 36px; font-weight: bold; text-align: center; background-color: hsl(110, 100%, 88%);
+}
+.heading.description{
+    font-size: 30px; font-weight: bold;
+}
+.heading.ingredients{
+    font-size: 26px;font-weight: bold;
+}
+.heading.steps{
+    font-size: 26px;font-weight: bold;
+}
+.list{
+     font-size: 17px;
+}
+p{
+    font-weight: 500; font-size: 18px;
+}
+img{
+    height: 500px;width: 500px;
+}

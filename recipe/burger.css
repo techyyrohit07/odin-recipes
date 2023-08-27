@@ -1,0 +1,24 @@
+
+img{
+    height: 400px; width: 500px; 
+}
+
+.heading{
+    font-size: 36px; color: red; font-weight: bold;text-align: center; background-color: hsl(110, 100%, 88%);
+}
+
+.heading.medium{
+    font-size: 26px;font-weight: bold;
+}
+
+.heading.small{
+    font-size: 25px;font-weight: bold;
+}
+
+.list{
+    font-size: 17px;
+}
+
+p{
+  font-size: 18px; font-weight: 500;
+}
